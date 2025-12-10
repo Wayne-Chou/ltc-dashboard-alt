@@ -377,7 +377,7 @@
   document.getElementById("personName").textContent = "載入中...";
 
   // 讀取 JSON
-  fetch("PageAPI_PersonalData-StLuke.json")
+  fetch("PageAPI_PersonalData-全成.json")
     .then((res) => res.json())
     .then((all) => {
       const person = all.find((p) => String(p.Profile.Number) === String(id));
