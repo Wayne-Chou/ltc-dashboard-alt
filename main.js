@@ -300,7 +300,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   // 地區名 JSON 檔案
   const locationFileMap = {
-    StLuke: "PageAPI-StLuke.json",
+    全成社會福利基金會: "PageAPI-全成.json",
   };
 
   // VIVIFRAIL 陣列

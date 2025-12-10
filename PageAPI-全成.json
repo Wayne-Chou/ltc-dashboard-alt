@@ -1,5 +1,5 @@
 {
-  "Location": "全成",
+  "Location": "全成社會福利基金會",
   "assessments": [
     {
       "Date": 1745251200000,
@@ -22,7 +22,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1745337600000,
@@ -53,7 +53,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1745424000000,
@@ -92,7 +92,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1745510400000,
@@ -123,7 +123,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1745596800000,
@@ -169,7 +169,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1745683200000,
@@ -222,7 +222,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1745769600000,
@@ -275,7 +275,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1745856000000,
@@ -321,7 +321,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1745942400000,
@@ -367,7 +367,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1746460800000,
@@ -390,7 +390,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1746633600000,
@@ -421,7 +421,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1746720000000,
@@ -509,7 +509,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1746806400000,
@@ -563,7 +563,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1746892800000,
@@ -609,7 +609,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1746979200000,
@@ -632,7 +632,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1747065600000,
@@ -671,7 +671,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1747152000000,
@@ -694,7 +694,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1747238400000,
@@ -717,7 +717,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1747497600000,
@@ -740,7 +740,19 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 30,
+            "Name": "王江水",
+            "Gender": 1,
+            "Age": 68,
+            "LastValue": 89.89,
+            "Value": 73.17
+          }
+        ],
+        "ChairSecond": []
+      }
     },
     {
       "Date": 1747584000000,
@@ -792,7 +804,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1747670400000,
@@ -815,7 +827,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1748016000000,
@@ -910,7 +922,28 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 22,
+            "Name": "倪朝雄",
+            "Gender": 1,
+            "Age": 75,
+            "LastValue": 53.89,
+            "Value": 47.77
+          }
+        ],
+        "ChairSecond": [
+          {
+            "Number": 22,
+            "Name": "倪朝雄",
+            "Gender": 1,
+            "Age": 75,
+            "LastValue": 10.09,
+            "Value": 11.76
+          }
+        ]
+      }
     },
     {
       "Date": 1748102400000,
@@ -977,7 +1010,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1748275200000,
@@ -1022,7 +1055,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1748361600000,
@@ -1045,7 +1078,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1748448000000,
@@ -1068,7 +1101,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1748966400000,
@@ -1091,7 +1124,19 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 6,
+            "Name": "曾王寶葉",
+            "Gender": 0,
+            "Age": 90,
+            "LastValue": 22.48,
+            "Value": 18.48
+          }
+        ],
+        "ChairSecond": []
+      }
     },
     {
       "Date": 1749139200000,
@@ -1136,7 +1181,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1749225600000,
@@ -1181,7 +1226,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1749312000000,
@@ -1235,7 +1280,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1749484800000,
@@ -1258,7 +1303,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1749571200000,
@@ -1318,7 +1363,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1749830400000,
@@ -1378,7 +1423,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1750262400000,
@@ -1401,7 +1446,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1750348800000,
@@ -1446,7 +1491,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1750435200000,
@@ -1521,7 +1566,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1750521600000,
@@ -1560,7 +1605,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1750608000000,
@@ -1583,7 +1628,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1750694400000,
@@ -1636,7 +1681,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1750953600000,
@@ -1674,7 +1719,28 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 2,
+            "Name": "楊朝嘉",
+            "Gender": 1,
+            "Age": 72,
+            "LastValue": 70.26,
+            "Value": 62.5
+          }
+        ],
+        "ChairSecond": [
+          {
+            "Number": 2,
+            "Name": "楊朝嘉",
+            "Gender": 1,
+            "Age": 72,
+            "LastValue": 14.39,
+            "Value": 16.43
+          }
+        ]
+      }
     },
     {
       "Date": 1751385600000,
@@ -1719,7 +1785,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1751731200000,
@@ -1785,7 +1851,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1752076800000,
@@ -1816,7 +1882,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1752336000000,
@@ -1839,7 +1905,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1752422400000,
@@ -1892,7 +1958,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1752595200000,
@@ -1915,7 +1981,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1752681600000,
@@ -1938,7 +2004,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1752768000000,
@@ -1961,7 +2027,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1752854400000,
@@ -1984,7 +2050,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1752940800000,
@@ -2015,7 +2081,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1753200000000,
@@ -2038,7 +2104,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1753286400000,
@@ -2069,7 +2135,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1753372800000,
@@ -2115,7 +2181,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1753459200000,
@@ -2154,7 +2220,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1753545600000,
@@ -2214,7 +2280,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1753804800000,
@@ -2237,7 +2303,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1753891200000,
@@ -2260,7 +2326,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1754409600000,
@@ -2291,7 +2357,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1754668800000,
@@ -2322,7 +2388,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1754841600000,
@@ -2383,7 +2449,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1754928000000,
@@ -2406,7 +2472,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1755014400000,
@@ -2436,7 +2502,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1755100800000,
@@ -2482,7 +2548,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1755273600000,
@@ -2513,7 +2579,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1755446400000,
@@ -2544,7 +2610,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1755532800000,
@@ -2583,7 +2649,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1755878400000,
@@ -2613,7 +2679,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1756137600000,
@@ -2643,7 +2709,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1756310400000,
@@ -2688,7 +2754,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1756396800000,
@@ -2748,7 +2814,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1756569600000,
@@ -2809,7 +2875,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1756828800000,
@@ -2840,7 +2906,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1756915200000,
@@ -2871,7 +2937,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1757260800000,
@@ -2901,7 +2967,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1757347200000,
@@ -2924,7 +2990,7 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1757433600000,
@@ -2969,7 +3035,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1757520000000,
@@ -3008,7 +3074,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1757692800000,
@@ -3054,7 +3120,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1757952000000,
@@ -3092,7 +3158,7 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1758124800000,
@@ -3123,7 +3189,36 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 23,
+            "Name": "蔡李和香",
+            "Gender": 0,
+            "Age": 75,
+            "LastValue": 83.28,
+            "Value": 72.07
+          },
+          {
+            "Number": 29,
+            "Name": "陳何盡",
+            "Gender": 0,
+            "Age": 88,
+            "LastValue": 53.17,
+            "Value": 40.39
+          }
+        ],
+        "ChairSecond": [
+          {
+            "Number": 29,
+            "Name": "陳何盡",
+            "Gender": 0,
+            "Age": 88,
+            "LastValue": 16.96,
+            "Value": 22.61
+          }
+        ]
+      }
     },
     {
       "Date": 1758211200000,
@@ -3153,7 +3248,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     },
     {
       "Date": 1758297600000,
@@ -3198,7 +3293,28 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 4,
+            "Name": "蔡錦",
+            "Gender": 0,
+            "Age": 83,
+            "LastValue": 33.85,
+            "Value": 27.38
+          }
+        ],
+        "ChairSecond": [
+          {
+            "Number": 3,
+            "Name": "陳阿才",
+            "Gender": 1,
+            "Age": 91,
+            "LastValue": 13.8,
+            "Value": 15.43
+          }
+        ]
+      }
     },
     {
       "Date": 1758470400000,
@@ -3236,7 +3352,28 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 26,
+            "Name": "陳翁桂枝",
+            "Gender": 0,
+            "Age": 94,
+            "LastValue": 62.65,
+            "Value": 41.15
+          }
+        ],
+        "ChairSecond": [
+          {
+            "Number": 26,
+            "Name": "陳翁桂枝",
+            "Gender": 0,
+            "Age": 94,
+            "LastValue": 17.98,
+            "Value": 24.56
+          }
+        ]
+      }
     },
     {
       "Date": 1758729600000,
@@ -3282,7 +3419,36 @@
         ],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 18,
+            "Name": "王秀娥",
+            "Gender": 0,
+            "Age": 69,
+            "LastValue": 26.66,
+            "Value": 23.9
+          }
+        ],
+        "ChairSecond": [
+          {
+            "Number": 16,
+            "Name": "洪林蜜",
+            "Gender": 0,
+            "Age": 83,
+            "LastValue": 13.67,
+            "Value": 15.37
+          },
+          {
+            "Number": 18,
+            "Name": "王秀娥",
+            "Gender": 0,
+            "Age": 69,
+            "LastValue": 22.73,
+            "Value": 25.17
+          }
+        ]
+      }
     },
     {
       "Date": 1758816000000,
@@ -3327,7 +3493,36 @@
         "C": [],
         "D": []
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 12,
+            "Name": "蔡秀",
+            "Gender": 0,
+            "Age": 74,
+            "LastValue": 49.55,
+            "Value": 42.43
+          },
+          {
+            "Number": 8,
+            "Name": "王福田",
+            "Gender": 1,
+            "Age": 68,
+            "LastValue": 50.31,
+            "Value": 44.3
+          }
+        ],
+        "ChairSecond": [
+          {
+            "Number": 27,
+            "Name": "卓陳桃",
+            "Gender": 0,
+            "Age": 99,
+            "LastValue": 10.77,
+            "Value": 14.5
+          }
+        ]
+      }
     },
     {
       "Date": 1758902400000,
@@ -3350,7 +3545,19 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": {
+        "GaitSpeed": [
+          {
+            "Number": 11,
+            "Name": "陳嚴阿葉",
+            "Gender": 0,
+            "Age": 83,
+            "LastValue": 71.88,
+            "Value": 51.43
+          }
+        ],
+        "ChairSecond": []
+      }
     },
     {
       "Date": 1758988800000,
@@ -3373,7 +3580,7 @@
           }
         ]
       },
-      "Degenerate": { "GaitSpeed": 0, "ChairSecond": 0 }
+      "Degenerate": { "GaitSpeed": [], "ChairSecond": [] }
     }
   ]
 }
